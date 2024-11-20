@@ -18,7 +18,7 @@ This is a simple To-Do List application built using Python's `tkinter` library. 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/todo-list-app.git
+git clone https://github.com/Vaibhav0911/to_do_list.git
 Navigate to the project directory:
 
 bash
